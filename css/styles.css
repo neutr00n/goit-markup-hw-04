@@ -491,6 +491,7 @@ img {
 }
 
 .footer-wrapper:not(:first-child) {
+  margin-top: 12px;
   margin-left: 70px;
 }
 
